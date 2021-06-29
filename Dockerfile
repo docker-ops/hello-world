@@ -2,7 +2,7 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "dockerbhanu" 
+MAINTAINER "valaxytech@gmail.com" 
 COPY ./webapp.war /usr/local/tomcat/webapps
 EXPOSE 8080
 
